@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+body{
+    background-color:black;
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%, #f6d365 100%);
+}
+.container1{  
+    text-align: center;    
+    padding-top: 10px;   
+    
+    }  
+.container{  
+    text-align: center;    
+    padding-top: 15px;  
+}
+#DOGBUTTON{
+    background: linear-gradient(49deg, rgba(59,173,227,1) 0%, rgba(87,111,230,1) 25%, rgba(152,68,183,1) 51%, rgba(255,53,127,1) 100%);
+    background-color:black;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+}
